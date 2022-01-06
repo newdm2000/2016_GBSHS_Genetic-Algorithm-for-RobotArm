@@ -1,0 +1,9 @@
+EXPORTS
+    feedback @1
+    getGeneInfo @2
+    getGeneNum @3
+    getGeneration @4
+    getTarget @5
+    logVoltage @6
+    setTarget @7
+    study @8

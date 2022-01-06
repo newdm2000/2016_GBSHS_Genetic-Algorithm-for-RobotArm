@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1441201322 source:c:\users\컴2실-25\desktop\template\main.cpp
+	"main.h"
+
+1441200886 c:\users\컴2실-25\desktop\template\main.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1441232884 source:c:\users\과학고\desktop\2015 r&e\ga02\main.cpp
+	"main.h"
+
+1441232886 c:\users\과학고\desktop\2015 r&e\ga02\main.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1446734179 source:c:\users\과학고\desktop\2015rne\ga02\main.cpp
+	"main.h"
+
+1446359872 c:\users\과학고\desktop\2015rne\ga02\main.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1474381234 source:c:\users\과학고\desktop\2015 rne\학습 소프트웨어\ga03\main.cpp
+	"main.h"
+	<time.h>
+
+1477566761 c:\users\과학고\desktop\2015 rne\학습 소프트웨어\ga03\main.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1479290890 source:c:\users\과학고\desktop\2016rne\학습 소프트웨어\ga03\main.cpp
+	"main.h"
+	<time.h>
+
+1479291130 c:\users\과학고\desktop\2016rne\학습 소프트웨어\ga03\main.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
